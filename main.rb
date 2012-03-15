@@ -6,6 +6,7 @@ configure do
   set :javascripts, %w[ ]
   set :fonts, %w[ Abel ]
   set :markdown, :layout_engine => :slim
+  set :default_locale, 'en'
 end
 
 ########## DAZ4126 website ###########
@@ -13,7 +14,8 @@ require 'bundler'
 Bundler.require
 
 get '/' do
-  @title = "Nuestra Visión"
+  @title = t.vision.title
+  @vision = t.vision.text
   slim :index
 end
 
@@ -33,12 +35,15 @@ get '/contacto' do
   slim :contacto
 end
 
+not_found { slim : '404'}
+error { slim : '500'}
+
 __END__
 ########### Views ###########
 
 @@index
 h1 title='Nuestra Visión'
-p Thanks for visiting. Have a nice day!
+p vision='La vision'
 
 @@mision
 p Mision
@@ -51,3 +56,11 @@ p Que Hacemos
 
 @@contacto
 p Contacto
+
+@@404
+h1 404!
+p That page is missing
+
+@@500
+h1 500 error!
+p Oops, something has gone terrible wrong!

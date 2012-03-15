@@ -35,8 +35,13 @@ get '/contacto' do
   slim :contacto
 end
 
-not_found { slim : '404'}
-error { slim : '500'}
+not_found do 
+  slim :404 
+end
+
+error do
+  slim :500
+end
 
 __END__
 ########### Views ###########

@@ -1,3 +1,2 @@
-source :rubygems
-gem 'sinatra', :git => 'git://github.com/sinatra/sinatra.git'
-gem 'slim'
+source  :gemcutter
+gem 'sinatra', '1.3.2'

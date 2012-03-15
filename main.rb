@@ -36,11 +36,11 @@ get '/contacto' do
 end
 
 not_found do 
-  slim :404 
+  slim '404'
 end
 
 error do
-  slim :500
+  slim '500'
 end
 
 __END__

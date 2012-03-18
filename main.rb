@@ -1,5 +1,6 @@
 require 'bundler'
 Bundler.require
+require 'sinatra/r18n'
 
 ########## configuration & settings ###########
 set :name, ENV['NAME'] || 'DATA'
@@ -32,6 +33,39 @@ get '/contacto' do
   slim :contacto
 end
 
+get '/contact' do
+  slim :contact
+end
+
+get '/glosario' do
+  slim :glosario
+end
+
+get '/success' do
+  slim :success
+end
+
+post '/contact' do
+  require 'pony'
+  Pony.mail(
+    :from => params[:name] + "<" + params[:email] + ">",
+    :to => 'gabelula@gmail.com',
+    :subject => "[DATA] " + params[:name],
+    :body => params[:message],
+    :port => '587',
+    :via => :smtp,
+    :via_options => {
+      :address => 'smtp.gmail.com',
+      :port    => '587',
+      :enable_starttls_auto => true,
+      :user_name            => ENV['SENDGRID_USERNAME'],
+      :password             => ENV['SENDGRID_PASSWORD'],
+      :authentication => :plain,
+      :domain => ENV['SENDGRID_DOMAIN']
+  })
+  redirect '/success'
+end
+
 not_found do 
   slim '404'
 end
@@ -39,13 +73,4 @@ end
 error do
   slim '500'
 end
-
 __END__
-########### Views ###########
-@@404
-h1 404!
-p That page is missing
-
-@@500
-h1 500 error!
-p Oops, something has gone terrible wrong!

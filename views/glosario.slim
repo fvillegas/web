@@ -31,23 +31,30 @@ html
 
     .container
       .hero-unit
-        h1 #{t.que.head}
-        p  #{t.que.text}
+        h1 #{t.glosario.head}
       .row
-        .bigger
-          ul
-            == t.que.objetivos
-      hr
-      h3 #{t.que.proyectos}
+        .span3
+          h2 #{t.glosario.licencias_libres}
+          p  #{t.glosario.licencias_libres_desc}
+        .span3
+          h2 #{t.glosario.comunidad}
+          p  #{t.glosario.comunidad_desc}
+        .span3
+          h2 #{t.glosario.informacion_publica}
+          p  #{t.glosario.informacion_publica_desc}
+        .span3
+          h2 #{t.glosario.datos_abiertos}
+          p  #{t.glosario.datos_abiertos_desc}
       .row
-        .span4
-          h4 #{t.que.hackaton}
-          p  
-            == t.que.hackaton_desc
-        .span4
-          h4 #{t.que.alavateli}
-          p  
-            == t.que.alavateli_desc
+        .span3
+          h2 #{t.glosario.privacidad}
+          p  #{t.glosario.privacidad_desc}
+        .span3
+          h2 #{t.glosario.estandares_abiertos}
+          p  #{t.glosario.estandares_abiertos_desc}
+        .span3
+          h2 #{t.glosario.tic}
+          p  #{t.glosario.tic_desc}
       hr
       footer
         | &copy; DATA 2012
@@ -56,16 +63,16 @@ html
     /! ================================================== 
     /! Placed at the end of the document so the pages load faster
 
-    script src="../assets/js/jquery.js"
-    script src="../assets/js/bootstrap-transition.js"
-    script src="../assets/js/bootstrap-alert.js"
-    script src="../assets/js/bootstrap-modal.js"
-    script src="../assets/js/bootstrap-dropdown.js"
-    script src="../assets/js/bootstrap-scrollspy.js"
-    script src="../assets/js/bootstrap-tab.js"
-    script src="../assets/js/bootstrap-tooltip.js"
-    script src="../assets/js/bootstrap-popover.js"
-    script src="../assets/js/bootstrap-button.js"
-    script src="../assets/js/bootstrap-collapse.js"
-    script src="../assets/js/bootstrap-carousel.js"
-    script src="../assets/js/bootstrap-typeahead.js"
+    script src="/js/jquery.js"
+    script src="/js/bootstrap-transition.js"
+    script src="/js/bootstrap-alert.js"
+    script src="/js/bootstrap-modal.js"
+    script src="/js/bootstrap-dropdown.js"
+    script src="/js/bootstrap-scrollspy.js"
+    script src="/js/bootstrap-tab.js"
+    script src="/js/bootstrap-tooltip.js"
+    script src="/js/bootstrap-popover.js"
+    script src="/js/bootstrap-button.js"
+    script src="/js/bootstrap-collapse.js"
+    script src="/js/bootstrap-carousel.js"
+    script src="/js/bootstrap-typeahead.js"

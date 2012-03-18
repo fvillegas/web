@@ -30,24 +30,15 @@ html
     == render :slim, :navigation
 
     .container
-      .hero-unit
-        h1 #{t.que.head}
-        p  #{t.que.text}
-      .row
-        .bigger
-          ul
-            == t.que.objetivos
-      hr
-      h3 #{t.que.proyectos}
-      .row
-        .span4
-          h4 #{t.que.hackaton}
-          p  
-            == t.que.hackaton_desc
-        .span4
-          h4 #{t.que.alavateli}
-          p  
-            == t.que.alavateli_desc
+      p #{t.contact.text}
+      form.well action="/contact" method="post"
+        label for="name" #{t.contact.name}
+        input.span3 type="text" name="name"
+        label for="email" #{t.contact.email}
+        input.span3 type="text" name="email"
+        label for="to" #{t.contact.message}
+        textarea name="message" rows="16" cols="28"
+        input.btn type="submit" value="send"
       hr
       footer
         | &copy; DATA 2012
@@ -56,16 +47,16 @@ html
     /! ================================================== 
     /! Placed at the end of the document so the pages load faster
 
-    script src="../assets/js/jquery.js"
-    script src="../assets/js/bootstrap-transition.js"
-    script src="../assets/js/bootstrap-alert.js"
-    script src="../assets/js/bootstrap-modal.js"
-    script src="../assets/js/bootstrap-dropdown.js"
-    script src="../assets/js/bootstrap-scrollspy.js"
-    script src="../assets/js/bootstrap-tab.js"
-    script src="../assets/js/bootstrap-tooltip.js"
-    script src="../assets/js/bootstrap-popover.js"
-    script src="../assets/js/bootstrap-button.js"
-    script src="../assets/js/bootstrap-collapse.js"
-    script src="../assets/js/bootstrap-carousel.js"
-    script src="../assets/js/bootstrap-typeahead.js"
+    script src="/js/jquery.js"
+    script src="/js/bootstrap-transition.js"
+    script src="/js/bootstrap-alert.js"
+    script src="/js/bootstrap-modal.js"
+    script src="/js/bootstrap-dropdown.js"
+    script src="/js/bootstrap-scrollspy.js"
+    script src="/js/bootstrap-tab.js"
+    script src="/js/bootstrap-tooltip.js"
+    script src="/js/bootstrap-popover.js"
+    script src="/js/bootstrap-button.js"
+    script src="/js/bootstrap-collapse.js"
+    script src="/js/bootstrap-carousel.js"
+    script src="/js/bootstrap-typeahead.js"

@@ -1,14 +1,21 @@
 vision:
   title: Datos Abiertos, Transparencia y Acceso a la Información
   head:  Nuestra visión
-  text:  Soñamos con una sociedad donde cada ser humano tenga libre acceso a la información y oportunidades que necesita para definir su destino, y pensamos que la tecnología tiene mucho que aportar en esto.  DATA promueve el desarrollo humano a través de la creación, uso, e innovación de tecnologías basadas en datos abiertos,  para aportar a mejorar nuestras sociedades y nuestros gobiernos.
+  text:  "Soñamos con una sociedad donde cada ser humano tenga libre acceso a la información y oportunidades que necesita para definir su destino, y pensamos que la tecnología tiene mucho que aportar en esto.  DATA promueve el desarrollo humano a través de la creación, uso, e innovación de tecnologías basadas en datos abiertos,  para aportar a mejorar nuestras sociedades y nuestros gobiernos."
   misionyvalores: Mision y Valores
+  problemas_title: "Qué problemas estamos intentando resolver?"
+  visualizacion: Lectura de datos para poder tomar decisiones
+  visualizacion_desc: Se han liberado conjuntos de datos publicos pero no hay muchas formas de visualizacion de los mismos para que puedan ser entendidos.
+  acceso: Acceso a la información publica
+  acceso_desc: Existe en Uruguay la ley de acceso a la información publica pero aún sigue siendo no tan fácil hacer pedidos de información.
 navigation:
   vision: Visión
   mision: Misión
   quienes: Quiénes
   que_hacemos: Qué Hacemos
   contacto: Contacto
+  es: es
+  en: en
 mision:
   head: Misión y Valores
   text: DATA tiene como misión la creación de herramientas para el accionar colectivo, participativo y colaborativo, apoyándose en la comunidad a través de las tecnologías de la información y comunicación y el uso de la información pública. Promoverá la participacion, aportando a facilitar las decisiones de la comunidad y generando nuevos espacios de debate público.

@@ -9,10 +9,16 @@ set :analytics, ENV['ANALYTICS'] || 'uA-XXXXXXXX-X'
 set :javascripts, %w[ ]
 set :fonts, %w[ Abel ]
 set :markdown, :layout_engine => :slim
-set :default_locale, 'en'
 set :public_folder, File.dirname(__FILE__) + '/static'
+set :locales, %w[en es]
+set :default_locale, 'en'
+set :translations, './translations'
 
 ########## DAZ4126 website ###########
+before do
+  session[:locale] = params[:lang] if params[:lang]
+end
+
 get '/' do
   slim :index
 end
@@ -73,4 +79,5 @@ end
 error do
   slim '500'
 end
+
 __END__

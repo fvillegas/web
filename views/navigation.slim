@@ -7,14 +7,19 @@
         span.icon-bar
       a.brand href="#" DATA
       .nav-collapse
-        ul.nav
+        ul.nav.pull-left
           li
-            a href="/" #{t.navigation.vision}
+            a href="/?lang=#{session[:locale]}" #{t.navigation.vision}
           li
-            a href="/mision" #{t.navigation.mision}
+            a href="/mision?lang=#{session[:locale]}" #{t.navigation.mision}
           li
-            a href="/quienes" #{t.navigation.quienes}
+            a href="/quienes?lang=#{session[:locale]}" #{t.navigation.quienes}
           li
-            a href="/que" #{t.navigation.que_hacemos}
+            a href="/que?lang=#{session[:locale]}" #{t.navigation.que_hacemos}
           li
-            a href="/contacto" #{t.navigation.contacto}
+            a href="/contacto?lang=#{session[:locale]}" #{t.navigation.contacto}
+        ul.nav.pull-right
+          li
+            a href="/?lang=es" #{t.navigation.es} 
+          li
+            a href="/?lang=en" #{t.navigation.en} 

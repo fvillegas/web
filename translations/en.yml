@@ -3,19 +3,26 @@ vision:
   head:  Our vision
   text:  We dream of a society where every human being has freedom to access information and opportunities to defion his own path, and we think that technology has a lot to contribute in this. DATA promotes human development through the creation, use, and innovation of open data based technology to improve our societies and governments.
   misionyvalores: Mission and values
+  problemas_title: What are the problems we are trying to resolve?
+  visualizacion: Get information from a lot of data to help on decision making
+  visualizacion_desc: There are many public datasets but not many ways of visualizing them to understand the information. 
+  acceso: Access to the public information
+  acceso_desc: In Uruguay there is a freedom of information law but it is sitll not so easy to do the requests for information.
 navigation:
   vision: Vision
   mision: Mission
   quienes: Who
   que_hacemos: Our work
   contacto: Contact
+  es: es
+  en: en
 mision:
   head: Mission and values
   text: "DATA's mission is to create tools to act in a collective, participative and collaborative manner, supported by the community through technology and the use of public information. DATA will promote participation, contributing to easier and richer community decision-making and generating new spaces for public debate."
   transparencia: "Transparency: Transparency impregnates all DATA activities, including and not limited to,  budget, membership, staff, organizational structure and sources of income."
-  meritocracia: "Meritocracy:  In the development of our project we will use meritocratic standards, to ensure that efforts are rewarded based on merit.”
-  pluralismo: "Pluralism: Our members may have different philosophical and political stands on a personal level, but this does not impeed us to acknowledge it and work together towards a common goal. We welcome diversity of ideas and people, with no discrimination against origin or gender of any kind, as long as they share our core values"
-  neutralidad: “Non partisan: Our activities will lead us to political engagement and our members do have political views, but our organization does not support any kind of partisan politics.”
+  meritocracia: "Meritocracy:  In the development of our project we will use meritocratic standards, to ensure that efforts are rewarded based on merit."
+  pluralismo: "Pluralism Our members may have different philosophical and political stands on a personal level, but this does not impeed us to acknowledge it and work together towards a common goal. We welcome diversity of ideas and people, with no discrimination against origin or gender of any kind, as long as they share our core values"
+  neutralidad: "Non partisan: Our activities will lead us to political engagement and our members do have political views, but our organization does not support any kind of partisan politics."
   participacion: "Participation: We understand that to achieve collective goals we need to participate in public life, as well as promote that other communities do the same."
 quienes:
   head: Who we are
@@ -25,13 +32,20 @@ quienes:
   mariana: "Graduated from political science at Universidad de la Republica, Uruguay. Author and researcher working for CAINFO and collaborator in the publishing of 'Overcoming the culture of secrecy', a book on access to information in Latin America."
   daniel: "Consultant and teacher in digital communication. Editor of <a href='http://tanconectados.com'>TanConectados.com</a> and tech columnist for Montevideo Portal."   
   fernando: "Self-taught programmer, passionate for free software. He thinks proprietary operative systems do not deserve him as a user. Fernando is an avid blogger on programming, free software and more. He's still not sure whether it's more fun to develop software or to write and talk about it. He reads comics and collects T-Shirts. His favorite drinks are coffee and craft beer."
-  evan: "Hacker & agitator. Rabble was the leading programmer of Odeo.com, the podcasting company where twitter was born. Founder of <a href='http://www.cuboxlabs.com'>Cubox Labs</a> as well as seasoned presenter  at conferences on technology and entrepreneurship.   bernabe:  A purist of free licenses, Bernabé is a hacker and an expert in open networks. He Co-founded Montevideo Libre and Hackspace Montevideo."
+  evan: "Hacker & agitator. Rabble was the leading programmer of Odeo.com, the podcasting company where twitter was born. Founder of <a href='http://www.cuboxlabs.com'>Cubox Labs</a> as well as seasoned presenter  at conferences on technology and entrepreneurship."
+  bernabe:  A purist of free licenses, Bernabé is a hacker and an expert in open networks. He Co-founded Montevideo Libre and Hackspace Montevideo.
 que:
   head: What we do
   text: We build tools for collective action. Promoting popular participation in political spheres. We work on government transparency in Uruguay. We believe in horizontal decision making and transparency to build a space where everyone is part of the decision making process.
-  objetivos: "<li>We promote the combination of expertise to build tools based on <a href='/glosario'>public information</a>, that improve the life of our <a href='/glosario'>community</a>.</li>             <li>We promote contact between diverse individuals, civil society groups, and the state to share experiences and contribute to the creation of tools based on <a href='/glosario'>open data</a>.</li>             <li> We provide <b>space for innovation and experimentation</b> to explore solutions to social problems using <a href='/glosario'>Technology</a>.</li>
-            <li>We collaborate in the creation of an <a href='/glosario'>open data</a> infraestructure, promoting its release and common standards to use and reuse open data in the public sector, civil society and private sector.</li>             <li>We support <b>educational processes</b>, promoting the  use and reuse of <a href='/glosario'>public information</a> to create content.</li>             <li> We research on freedom of information, open data, <a href='/glosario'>privacy</a> and the Internet promoting a better understanding of rights, politics and impact of the regulatory framework.</li>             <li>We contribute with other international stakeholders according to our mission, participating collaboratively at a regional and international level </li>
-            <li>We promote the use of <href='/glosario'>open standards</a> in the distribution of data.</li>             <li>Tools generated through our proyects allow for free use and distribution through <a href='/glosario'>open licenses</a>.</li>"
+  objetivos: "<li>We promote the combination of expertise to build tools based on <a href='/glosario'>public information</a>, that improve the life of our <a href='/glosario'>community</a>.</li>             
+              <li>We promote contact between diverse individuals, civil society groups, and the state to share experiences and contribute to the creation of tools based on <a href='/glosario'>open data</a>.</li>             
+              <li> We provide <b>space for innovation and experimentation</b> to explore solutions to social problems using <a href='/glosario'>Technology</a>.</li>
+              <li>We collaborate in the creation of an <a href='/glosario'>open data</a> infraestructure, promoting its release and common standards to use and reuse open data in the public sector, civil society and private sector.</li>             
+              <li>We support <b>educational processes</b>, promoting the  use and reuse of <a href='/glosario'>public information</a> to create content.</li>             
+              <li> We research on freedom of information, open data, <a href='/glosario'>privacy</a> and the Internet promoting a better understanding of rights, politics and impact of the regulatory framework.</li>             
+              <li>We contribute with other international stakeholders according to our mission, participating collaboratively at a regional and international level </li>
+              <li>We promote the use of <href='/glosario'>open standards</a> in the distribution of data.</li>
+              <li>Tools generated through our proyects allow for free use and distribution through <a href='/glosario'>open licenses</a>.</li>"
   proyectos: Projects
   hackaton: Open Data Hackathon
   hackaton_desc: "With other groups through Latin America, we organized the contest/Open Data Hackathon <a href='http://www.desarrollandoamerica.org'>Desarrollando América Latina</a>."
@@ -54,7 +68,7 @@ glosario:
   tic: Technology
   tic_desc: desc
 contact:
-  text: Fill this form to send us a message:
+  text: Fill this form to send us a message
   name: Name
   email: eMail
   message: Message

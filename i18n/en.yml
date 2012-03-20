@@ -1,73 +1,61 @@
 vision:
-  title: Datos Abiertos, Transparencia y Acceso a la Información
-  head:  Nuestra visión
-  text:  Soñamos con una sociedad donde cada ser humano tenga libre acceso a la información y oportunidades que necesita para definir su destino, y pensamos que la tecnología tiene mucho que aportar en esto.  DATA promueve el desarrollo humano a través de la creación, uso, e innovación de tecnologías basadas en datos abiertos,  para aportar a mejorar nuestras sociedades y nuestros gobiernos.
-  misionyvalores: Mision y Valores
-  problemas_title: Qué problemas estamos intentando resolver?
-  visualizacion: Lectura de datos para poder tomar decisiones
-  visualizacion_desc: Se han liberado conjuntos de datos publicos pero no hay muchas formas de visualizacion de los mismos para que puedan ser entendidos.
-  acceso: Acceso a la información publica
-  acceso_desc: Existe en Uruguay la ley de acceso a la información publica pero aún sigue siendo no tan fácil hacer pedidos de información.
+  title: Datos Abiertos, Transparencia y Acceso a la Información (Open Data, Transparency and Freedom of Information)
+  head:  Our vision
+  text:  We dream of a society where every human being has freedom to access information and opportunities to defion his own path, and we think that technology has a lot to contribute in this. DATA promotes human development through the creation, use, and innovation of open data based technology to improve our societies and governments.
+  misionyvalores: Mission and values
 navigation:
-  vision: Visión
-  mision: Misión
-  quienes: Quiénes
-  que_hacemos: Qué Hacemos
-  contacto: Contacto
+  vision: Vision
+  mision: Mission
+  quienes: Who
+  que_hacemos: Our work
+  contacto: Contact
 mision:
-  head: Misión y Valores
-  text: DATA tiene como misión la creación de herramientas para el accionar colectivo, participativo y colaborativo, apoyándose en la comunidad a través de las tecnologías de la información y comunicación y el uso de la información pública. Promoverá la participacion, aportando a facilitar las decisiones de la comunidad y generando nuevos espacios de debate público.
-  transparencia: "Transparencia: la transparencia transversaliza todas las actividades de DATA, incluyendo y no limitándose a, su presupuesto, miembros, staff, forma de organización y financiación."
-  meritocracia: "Meritocracia: En el desarrollo de nuestros proyectos, nos manejamos por criterios meritocráticos, asegurando que el esfuerzo sea premiado, en función del mérito."
-  pluralismo: "Pluralismo: Quienes somos parte de esta organización podemos tener punto de vistas distintos sobre aspectos filosóficos y político a nivel personal pero eso no nos impide reconocerlo y trabajar juntos para cumplir con los objetivos que nos hemos propuesto. Damos la bienvenida a la diversidad de ideas y personas, sin discriminación de origen, género, en tanto compartan estos valores."
-  neutralidad: "Neutralidad politica:Nuestras actividades influiran políticamente en la sociedad y nuestros integrantes tienen opinones políticas, pero nuestra organización no hace ni apoya política partidaria de ningún tipo."
-  participacion: "Participación: Entendemos que los fines colectivos se alcanzan participando como organización en la vida pública, así como promoviendo que nuestras comunidades participen en ella."
+  head: Mission and values
+  text: "DATA's mission is to create tools to act in a collective, participative and collaborative manner, supported by the community through technology and the use of public information. DATA will promote participation, contributing to easier and richer community decision-making and generating new spaces for public debate."
+  transparencia: "Transparency: Transparency impregnates all DATA activities, including and not limited to,  budget, membership, staff, organizational structure and sources of income."
+  meritocracia: "Meritocracy:  In the development of our project we will use meritocratic standards, to ensure that efforts are rewarded based on merit.”
+  pluralismo: "Pluralism: Our members may have different philosophical and political stands on a personal level, but this does not impeed us to acknowledge it and work together towards a common goal. We welcome diversity of ideas and people, with no discrimination against origin or gender of any kind, as long as they share our core values"
+  neutralidad: “Non partisan: Our activities will lead us to political engagement and our members do have political views, but our organization does not support any kind of partisan politics.”
+  participacion: "Participation: We understand that to achieve collective goals we need to participate in public life, as well as promote that other communities do the same."
 quienes:
-  head: Quienes Somos?
-  text: Venimos de participar en el gobierno o en ambitos privados, en organizaciónes que estimulan la participación politica y en las que activamente intentan influir en la vida politica. Somos Hackers, Data Geeks, Apasionados por la Transparencia en el Gobierno, Uruguayos, Ingenieros, Sociologos, Mujeres, Hombres, Academicos y Soñadores.
-  gabriela: Activista social y hacker. Apasionada por el software libre.
-  fabrizio: Apasionado y curioso, por los estudios en transparencia y acceso a la información realiza su doctorado en departamento de gobienro de la Escuela de Economía y Ciencia Política de Londres. El "bichito le pico" cuando realizaba su maestría en la Universidad de Victoria en Nueva Zelandia. Es abogado y confiesa que de vez en cuando es útil. Ha trabajado con gobiernos en America Latina, asi como para organizaciones de la sociedad civil en estos temas. Le gusta el buceo, el bungee jumping y el tango.  Siente a su país cerca, aunque transitoriamente, se encuentre lejos.
-  mariana: Estudio ciencias politicas en la Universidad de la Republica en Uruguay. Autora e investigadora trabaja en CAINFO y ayudo a publicar el libro "Venciendo la cultura del secreto" sobre el acceso a la información en America Latina.
-  daniel: "Consultor y docente en comunicación digital. Editor del sitio <a href='http://www.tanconectados.com'>TanConectados.com</a> y columnista de tecnología de Montevideo Portal."
-  fernando: Programador autodidacta, apasionado por el softare libre piensa que los sistemas operativos propietarios no lo merecen como usuario. Fernando es un avido blogger sobre programación, software libre y más. Aún no esta seguro que es más divertido, si desarrollar o escribir y hablar sobre procesos de desarrollo de software. Lee muchos comics y colecciona camisetas. Sus bebidas favoritas son café y cerveza artesanal. 
-  evan: "Hacker & agitador. Rabble fue el programador lider de Odeo.com, la compañia de podcasting en donde nacio Twitter. Fundador de <a href='http://www.cuboxlabs.com'>Cubox Labs</a> asi como experiente orador en conferencias sobre tecnologia y emprendimientos."
-  bernabe: Purista en licencias libres, Bernabé es un hacker y experto en redes libres. Co-fundó Montevideo Libre y Hackspace Montevideo.
+  head: Who we are
+  text: We come from government or the private sector, from organizations that promote political participation and actively try to influence the public space. We are Hackers, Data Geeks, Passionate people for Transparency in Government, Uruguayans, Engineers, Social Scientists, Women, Men, Academics and Dreamers.
+  gabriela: Social Activist and Hacker. Passionate for Free Software.
+  fabrizio: "Passionate and curious about transparency and access to public information. He's currently pursuing his PhD at the Government Department of the LSE where he's also teaching Public Policy. His academic focus is on comparative politics, institutions, policy analysis and Latin America. He cought the 'transparency bug' while studying for a Master on Public Policy at Victoria University of Wellington. He's also a lawyer and admits that's a useful thing from time to time. He previously worked with Latin American governments and civil society organizations on this issues, with civil service reform initiatives and also setting up a youth participation programme in Uruguay."
+  mariana: "Graduated from political science at Universidad de la Republica, Uruguay. Author and researcher working for CAINFO and collaborator in the publishing of 'Overcoming the culture of secrecy', a book on access to information in Latin America."
+  daniel: "Consultant and teacher in digital communication. Editor of <a href='http://tanconectados.com'>TanConectados.com</a> and tech columnist for Montevideo Portal."   
+  fernando: "Self-taught programmer, passionate for free software. He thinks proprietary operative systems do not deserve him as a user. Fernando is an avid blogger on programming, free software and more. He's still not sure whether it's more fun to develop software or to write and talk about it. He reads comics and collects T-Shirts. His favorite drinks are coffee and craft beer."
+  evan: "Hacker & agitator. Rabble was the leading programmer of Odeo.com, the podcasting company where twitter was born. Founder of <a href='http://www.cuboxlabs.com'>Cubox Labs</a> as well as seasoned presenter  at conferences on technology and entrepreneurship.   bernabe:  A purist of free licenses, Bernabé is a hacker and an expert in open networks. He Co-founded Montevideo Libre and Hackspace Montevideo."
 que:
-  head: Que Hacemos?
-  text: Creamos herramientas para el accionar colectivo. Promovemos la participación popular en ambitos politicos. Trabajamos por transparencia en el gobierno Uruguayo. Creemos en la horizontalidad y transparencia como forma de construir un espacio donde todos formamos parte de las decisiones.
-  objetivos: "<li>Promovemos la combinación de saberes para crear herramientas basadas en <a href='/glosario'>información pública</a>, que mejoren la vida de la  <a href='/glosario'>comunidad</a>.</li>
-            <li>Promovemos el contacto entre diversos individuos, grupos de la sociedad civil y el estado con el interés común de aportar a la creación de herramientas basadas en <a href='/glosario'>datos abiertos</a>.</li>
-            <li>Proveemos un <b>espacio de innovación y experimentación</b> para explorar soluciones gualmenta problemas sociales usando <a href='/glosario'>tecnologías de la información y comunicación</a>.</li>
-            <li>Colaboramos en la creación de una infraestructura de <a href='/glosario'>datos abiertos</a>, favoreciendo su liberación y promoviendo estándares comúnes, su uso y su reuso en ámbitos públicos, de la sociedad civil y privados.</li>
-            <li>Apoyamos <b>procesos educativos</b>, promoviendo el uso y reuso de <a href='/glosario'>información pública</a> para la creación de contenidos.</li>
-            <li>Realizamos estudios vinculados a acceso a la información pública, datos abiertos y <a href='/glosario'>privacidad</a> e Internet promoviendo un mejor entendimiento en aspecto de derechos, políticas  e impacto de las regulaciones.</li>
-            <li>Contribuimos con otros actores internacionales promoviendo temas vinculados a la misión, participando colaborativamente en proyectos a nivel regional e internacional.</li>
-            <li>Promovemos la utilización de <a href='/glosario'>estandares abiertos</a> en la distribución de los datos. </li>
-            <li>Las herramientas generadas a partir de proyectos de esta organización permiten el libre uso y distribución de las mismas a través de <a href='/glosario'>licencias abiertas</a>.</li>"
-  proyectos: Proyectos
-  hackaton: Hackaton de Datos
-  hackaton_desc: "Organizamos junto a otros grupos en America Latina el concurso/hackaton de datos abiertos <a href='http://www.desarrollandoamerica.org'>Desarrollando América Latina</a>"
-  alavateli: Sitio de pedidos de información
-  alavateli_desc: "Estamos trabajando en la implementación de <a href='http://www.alavateli.org'>Alavateli</a> en Uruguay."
+  head: What we do
+  text: We build tools for collective action. Promoting popular participation in political spheres. We work on government transparency in Uruguay. We believe in horizontal decision making and transparency to build a space where everyone is part of the decision making process.
+  objetivos: "<li>We promote the combination of expertise to build tools based on <a href='/glosario'>public information</a>, that improve the life of our <a href='/glosario'>community</a>.</li>             <li>We promote contact between diverse individuals, civil society groups, and the state to share experiences and contribute to the creation of tools based on <a href='/glosario'>open data</a>.</li>             <li> We provide <b>space for innovation and experimentation</b> to explore solutions to social problems using <a href='/glosario'>Technology</a>.</li>
+            <li>We collaborate in the creation of an <a href='/glosario'>open data</a> infraestructure, promoting its release and common standards to use and reuse open data in the public sector, civil society and private sector.</li>             <li>We support <b>educational processes</b>, promoting the  use and reuse of <a href='/glosario'>public information</a> to create content.</li>             <li> We research on freedom of information, open data, <a href='/glosario'>privacy</a> and the Internet promoting a better understanding of rights, politics and impact of the regulatory framework.</li>             <li>We contribute with other international stakeholders according to our mission, participating collaboratively at a regional and international level </li>
+            <li>We promote the use of <href='/glosario'>open standards</a> in the distribution of data.</li>             <li>Tools generated through our proyects allow for free use and distribution through <a href='/glosario'>open licenses</a>.</li>"
+  proyectos: Projects
+  hackaton: Open Data Hackathon
+  hackaton_desc: "With other groups through Latin America, we organized the contest/Open Data Hackathon <a href='http://www.desarrollandoamerica.org'>Desarrollando América Latina</a>."
+  alavateli: Freedom of Information Site
+  alavateli_desc: "We're currenly working on implementing <a href='http://www.alavateli.org'>Alavateli</a> in Uruguay."
 glosario:
-  head: Glosario
-  licencias_libres: Licencias Libres
+  head: Glossary
+  licencias_libres: Free Licenses
   licencias_libres_desc: desc
-  comunidad: Comunidad
+  comunidad: Community
   comunidad_desc: desc
-  informacion_publica: Información Publica
+  informacion_publica: Public Information
   informacion_publica_desc: desc
-  datos_abiertos: Datos Abiertos
+  datos_abiertos: Open Data
   datos_abiertos_desc: desc
-  privacidad: Privacidad
+  privacidad: Privacy
   privacidad_desc: desc
-  estandares_abiertos: Estandares Abiertos
+  estandares_abiertos: Open Standards
   estandares_abiertos_desc: desc
-  tic: Tecnologias de la Información y Comunicación
+  tic: Technology
   tic_desc: desc
 contact:
-  text: Llena los siguientes datos si quieres enviarnos un mensaje. 
-  name: Tu Nombre
-  email: Tu correo electronico
-  message: Tu mensaje
-  send: Enviar
+  text: Fill this form to send us a message:
+  name: Name
+  email: eMail
+  message: Message
+  send: Send

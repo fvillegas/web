@@ -16,7 +16,11 @@ set :translations, './translations'
 
 ########## DAZ4126 website ###########
 before do
-  session[:locale] = params[:lang] if params[:lang]
+  if params[:lang]
+    session[:locale] = params[:lang] if params[:lang]
+  else
+    session[:locale] = settings.default_locale
+  end
 end
 
 get '/' do

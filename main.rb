@@ -17,7 +17,7 @@ set :translations, './translations'
 ########## DAZ4126 website ###########
 before do
   if params[:lang]
-    session[:locale] = params[:lang] if params[:lang]
+    session[:locale] = params[:lang]
   else
     session[:locale] = settings.default_locale
   end
@@ -77,11 +77,11 @@ post '/contact' do
 end
 
 not_found do 
-  slim '404'
+  t.errors.not_found
 end
 
 error do
-  slim '500'
+  t.errors.error
 end
 
 __END__

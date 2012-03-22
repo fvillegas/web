@@ -73,3 +73,6 @@ contact:
   email: Tu correo electronico
   message: Tu mensaje
   send: Enviar
+errors:
+  not_found: "No encontramos la página."
+  error: Hubo un error.

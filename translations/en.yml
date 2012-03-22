@@ -73,3 +73,6 @@ contact:
   email: eMail
   message: Message
   send: Send
+errors:
+  not_found: This page is missing.
+  error: There was an error.

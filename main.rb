@@ -11,7 +11,7 @@ set :fonts, %w[ Abel ]
 set :markdown, :layout_engine => :slim
 set :public_folder, File.dirname(__FILE__) + '/static'
 set :locales, %w[en es]
-set :default_locale, 'en'
+set :default_locale, 'es'
 set :translations, './translations'
 
 ########## DAZ4126 website ###########

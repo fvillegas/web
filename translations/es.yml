@@ -1,6 +1,6 @@
 vision:
-  title: Datos Abiertos, Transparencia y Acceso a la Información
-  head:  Nuestra visión
+  title: "Datos Abiertos, Transparencia y Acceso a la Información"
+  head: "Nuestra visión"
   text:  "Soñamos con una sociedad donde cada ser humano tenga libre acceso a la información y oportunidades que necesita para definir su destino, y pensamos que la tecnología tiene mucho que aportar en esto.  DATA promueve el desarrollo humano a través de la creación, uso, e innovación de tecnologías basadas en datos abiertos,  para aportar a mejorar nuestras sociedades y nuestros gobiernos."
   misionyvalores: "Misión"
   problemas_title: "En que desafios estamos trabajando?"
@@ -13,31 +13,31 @@ vision:
   democracia: "Democratizar la información"
   democracia_desc: "Equiparar la información disponible entre gente en el gobierno y las personas de a pie para mejorar la rendición de cuentas asi como la vida de todos los que vivimos en nuestra sociedad."
   construir: "Construir herramientas"
-  construir_desc: "Construir comunitariamente herramientas, basadas en datos públicos, para facilitar la vida cotiniada de todos nosotros."
+  construir_desc: "Construir comunitariamente herramientas basads en principios de software libre y que hagan uso de datos públicos, para facilitar la vida cotiniada de todos nosotros."
   participacion: "Promover democracia participativa"
   participacion_desc: "Empoderar a las personas para comunicarse con quienes sirven en el gobierno."
   controlar: "Verificación del debate público en Uruguay"
   controlar_desc: "Ayudar a cerrar la brecha entre lo dicho y lo hecho en el debate público uruguayo."
 navigation:
-  vision: Visión
-  mision: Misión
-  quienes: Quiénes
-  que_hacemos: Qué Hacemos
-  contacto: Contacto
-  es: es
-  en: en
+  vision: "Visión"
+  mision: "Misión"
+  quienes: "Quiénes"
+  que_hacemos: "Qué Hacemos"
+  contacto: "Contacto"
+  es: "español"
+  en: "english"
 mision:
   head: "Misión"
   text: "DATA tiene como misión la creación de herramientas para el accionar colectivo, participativo y colaborativo, apoyándose en la comunidad a través de las tecnologías de la información y comunicación y el uso de la información pública. Promoverá la participacion, aportando a facilitar las decisiones de la comunidad y generando nuevos espacios de debate público."
-  transparencia: "Transparencia: la transparencia transversaliza todas las actividades de DATA, incluyendo y no limitándose a, su presupuesto, miembros, staff, forma de organización y financiación."
+  transparencia: "Transparencia: La transparencia transversaliza todas las actividades de DATA, incluyendo y no limitándose a, su presupuesto, miembros, staff, forma de organización y financiación."
   meritocracia: "Meritocracia: En el desarrollo de nuestros proyectos, nos manejamos por criterios meritocráticos, asegurando que el esfuerzo sea premiado, en función del mérito."
   pluralismo: "Pluralismo: Quienes somos parte de esta organización podemos tener punto de vistas distintos sobre aspectos filosóficos y político a nivel personal pero eso no nos impide reconocerlo y trabajar juntos para cumplir con los objetivos que nos hemos propuesto. Damos la bienvenida a la diversidad de ideas y personas, sin discriminación de origen, género o cualquier otro tipo en tanto compartan estos valores."
-  neutralidad: "Neutralidad politica:Nuestras actividades influiran políticamente en la sociedad y nuestros integrantes tienen opinones políticas, pero nuestra organización no hace ni apoya política partidaria de ningún tipo."
+  neutralidad: "Neutralidad politica: Nuestras actividades influiran políticamente en la sociedad y nuestros integrantes tienen opinones políticas, pero nuestra organización no hace ni apoya política partidaria de ningún tipo."
   participacion: "Participación: Entendemos que los fines colectivos se alcanzan participando como organización en la vida pública, así como promoviendo que nuestras comunidades participen en ella."
 quienes:
   head: '¿Quienes Somos?'
   text: 'Venimos de participar en el gobierno o en ambitos privados, en organizaciónes que estimulan la participación politica y en las que activamente intentan influir en la vida politica. Somos Apasionados por la Transparencia en el Gobierno, Uruguayos, Ingenieros, Sociologos, Mujeres, Hombres, Academicos y Soñadores.'
-  gabriela: 'Activista social y hacker. Apasionada por el software libre.'
+  gabriela: 'Activista social y hacker, Gabriela trabaja como desarrolladora de software. Ella es incansable activista por el derecho de software asi como por la construcción de proyectos comunitarios.'
   fabrizio: 'Apasionado y curioso, por los estudios en transparencia y acceso a la información realiza su doctorado en departamento de gobienro de la Escuela de Economía y Ciencia Política de Londres. El "bichito le pico" cuando realizaba su maestría en la Universidad de Victoria en Nueva Zelandia. Es abogado y confiesa que de vez en cuando es útil. Ha trabajado con gobiernos en America Latina, asi como para organizaciones de la sociedad civil en estos temas. Le gusta el buceo, el bungee jumping y el tango.  Siente a su país cerca, aunque transitoriamente, se encuentre lejos.'
   mariana: 'Estudio ciencias politicas en la Universidad de la Republica en Uruguay. Autora e investigadora trabaja en CAINFO y ayudo a publicar el libro "Venciendo la cultura del secreto" sobre el acceso a la información en America Latina.'
   daniel: "Consultor y docente en comunicación digital. Editor del sitio <a href='http://www.tanconectados.com'>TanConectados.com</a> y columnista de tecnología de Montevideo Portal."
@@ -47,15 +47,15 @@ quienes:
 que:
   head: "¿Qué Hacemos?"
   text: "Creamos herramientas para el accionar colectivo. Promovemos la participación popular en ambitos politicos. Trabajamos por transparencia en el gobierno Uruguayo. Creemos en la horizontalidad y transparencia como forma de construir un espacio donde todos formamos parte de las decisiones."
-  objetivos: "En Particular: <li>Promovemos la combinación de saberes para crear herramientas basadas en <a href='/glosario'>información pública</a>, que mejoren la vida de la  <a href='/glosario'>comunidad</a>.</li>
-            <li>Promovemos el contacto entre diversos individuos, grupos de la sociedad civil y el estado con el interés común de aportar a la creación de herramientas basadas en <a href='/glosario'>datos abiertos</a>.</li>
-            <li>Proveemos un <b>espacio de innovación y experimentación</b> para explorar soluciones a problemas sociales usando <a href='/glosario'>tecnologías de la información y comunicación</a>.</li>
-            <li>Colaboramos en la creación de una infraestructura de <a href='/glosario'>datos abiertos</a>, favoreciendo su liberación y promoviendo estándares comúnes, su uso y su reuso en ámbitos públicos, de la sociedad civil y privados.</li>
-            <li>Apoyamos <b>procesos educativos</b>, promoviendo el uso y reuso de <a href='/glosario'>información pública</a> para la creación de contenidos.</li>
-            <li>Realizamos estudios vinculados al acceso a la información pública, datos abiertos y <a href='/glosario'>privacidad</a> e Internet promoviendo un mejor entendimiento en aspecto de derechos, políticas  e impacto de las regulaciones.</li>
+  objetivos: "En Particular:<br> <li>Promovemos la combinación de saberes para crear herramientas basadas en <a href='/glosario?lang=es'>información pública</a>, que mejoren la vida de la  <a href='/glosario'>comunidad</a>.</li>
+            <li>Promovemos el contacto entre diversos individuos, grupos de la sociedad civil y el estado con el interés común de aportar a la creación de herramientas basadas en <a href='/glosario?lang=es'>datos abiertos</a>.</li>
+            <li>Proveemos un <b>espacio de innovación y experimentación</b> para explorar soluciones a problemas sociales usando <a href='/glosario?lang=es'>tecnologías de la información y comunicación</a>.</li>
+            <li>Colaboramos en la creación de una infraestructura de <a href='/glosario?lang=es'>datos abiertos</a>, favoreciendo su liberación y promoviendo estándares comúnes, su uso y su reuso en ámbitos públicos, de la sociedad civil y privados.</li>
+            <li>Apoyamos <b>procesos educativos</b>, promoviendo el uso y reuso de <a href='/glosario?lang=es'>información pública</a> para la creación de contenidos.</li>
+            <li>Realizamos estudios vinculados al acceso a la información pública, datos abiertos y <a href='/glosario?lang=es'>privacidad</a> e Internet promoviendo un mejor entendimiento en aspecto de derechos, políticas  e impacto de las regulaciones.</li>
             <li>Contribuimos con otros actores internacionales promoviendo temas vinculados a nuestra misión, participando colaborativamente en proyectos a nivel regional e internacional.</li>
-            <li>Promovemos la utilización de <a href='/glosario'>estandares abiertos</a> en la distribución de los datos. </li>
-            <li>Las herramientas generadas a partir de proyectos de esta organización permiten el libre uso y distribución de las mismas a través de <a href='/glosario'>licencias abiertas</a>.</li>"
+            <li>Promovemos la utilización de <a href='/glosario?lang=es'>estandares abiertos</a> en la distribución de los datos. </li>
+            <li>Las herramientas generadas a partir de proyectos de esta organización permiten el libre uso y distribución de las mismas a través de <a href='/glosario?lang=es'>licencias abiertas</a>.</li>"
   proyectos: "Proyectos"
   hackaton: "Hackaton de Datos"
   hackaton_desc: "Organizamos junto a otros grupos en America Latina el concurso/hackaton de datos abiertos <a href='http://www.desarrollandoamerica.org'>Desarrollando América Latina</a>."

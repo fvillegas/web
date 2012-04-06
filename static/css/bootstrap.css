@@ -3496,7 +3496,8 @@ a.thumbnail:hover {
 }
 
 .bigger {
-  font-size: 200%;
+  font-size: 150%;
+  line-height: 24px;
 }
 
 .thumb a {

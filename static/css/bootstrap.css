@@ -2506,6 +2506,7 @@ button.btn.small, input[type="submit"].btn.small {
 }
 .nav-collapse.collapse {
   height: auto;
+  margin-bottom: 18px;
 }
 .navbar .brand:hover {
   text-decoration: none;

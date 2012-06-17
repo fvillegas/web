@@ -76,6 +76,19 @@ post '/contact' do
   redirect '/success'
 end
 
+get '/donar' do
+  slim :donar
+end
+
+post '/donar_abitab' do
+end
+
+post '/donar_paypal_once' do
+end
+
+post '/donar_paypal_regular' do
+end
+
 not_found do 
   t.errors.not_found
 end

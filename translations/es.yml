@@ -89,3 +89,18 @@ contact:
 errors:
   not_found: "No encontramos la página."
   error: Hubo un error.
+donar:
+  head: "Doná"
+  text: "Para apoyar el trabajo de DATA y sus proyectos puedes hacer una donación. Estamos incorporados como ONG en Uruguay registrados bajo el número xxx ."
+  objetivo: "Texto sobre el trabajo, para que se utiliza la plata que se done, etc."
+  vias: "Tenemos varias formas de recibir las donaciones."
+  paypal:
+    regular: "Donaciones mensuales por PayPal"
+    regular_desc: "Texto sobre donaciones mensuales"
+    regular_amount: "Me gustaria donar una vez por mes, empezando mañana, hasta que yo cancele los pagos."
+    once: "Donar una sola vez por PayPal"
+    once_desc: "Texto sobre donar una vez"
+    once_amount: "Me gustaria donar una sola vez esta cantidad."
+  abitab: "Donar por Abitab"
+  abitab_desc: "Texto sobre la donacion por Abitab"
+  abitab_amount: "Me gustaria donar por abitab una sola vez esta cantidad."

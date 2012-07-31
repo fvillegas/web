@@ -39,6 +39,10 @@ get '/que' do
   slim :que
 end
 
+get '/proyectos' do
+  slim :proyectos
+end
+
 get '/contacto' do
   slim :contacto
 end

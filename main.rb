@@ -1,7 +1,7 @@
 require 'bundler'
 Bundler.require
 require 'sinatra/r18n'
-require 'proyectos'
+#require 'proyectos'
 
 ########## configuration & settings ###########
 set :name, ENV['NAME'] || 'DATA'

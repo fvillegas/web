@@ -1,0 +1,17 @@
+# You can get this info by going to:
+# https://trello.com/1/appKey/generate
+#
+#Trello public key
+public_key: "9b007363ec0bf5be583ce0616af6adfd"
+#
+# #Trello private key
+private_key: "5c52a2df37054f82910ea62a0ddbc90f72f8614e57a6b27956d81b322d022e4e"
+#
+# You can get the key by going to this url in your browser:
+# https://trello.com/1/connect?key=PUBLIC_KEY_FROM_ABOVE&name=MyApp&response_type=token&scope=read,write,account&expiration=never
+# Only request the permissions you need; i.e., scope=read if you only need read, or scope=write if you only need write. Comma separate scopes you need.
+# If you want your token to expire after 30 days, drop the &expiration=never.
+access_token_key: "597a05efd7d5b14a3d59f700a58b13a19a5f4201a810db4629f93ce2d2b3c91e"
+
+# This is the public board that we are getting the list from
+public_board: "5002043fb56da9d16247002a"

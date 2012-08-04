@@ -30,22 +30,18 @@ html
     == render :slim, :navigation
 
     .container
-      h3 #{t.que.proyectos}
+      h3 #{t.proyectos.head}
       br
       .row
-        .span4
-          h4 #{t.que.hackaton}
-          p  
-            == t.que.hackaton_desc
-        .span4
-          h4 #{t.que.alavateli}
-          p  
-            == t.que.alavateli_desc
-        .span4
-          h4 #{t.que.ambiental}
-          p  
-            == t.que.ambiental_desc
-      hr
+        - lists.each do |list|
+          .span6
+            .well
+               h4 #{list.name}
+               ul
+                 - list.cards.each do |card|
+                   li == card.name
+
+      hr 
       footer
         | DATA 2012
 

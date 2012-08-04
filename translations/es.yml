@@ -80,6 +80,8 @@ glosario:
   estandares_abiertos_desc: "<a href='http://es.wikipedia.org/wiki/Est%C3%A1ndar_abierto'>Estándar abierto</a> es una especificación disponible públicamente para lograr una tarea específica"
   tic: "Tecnologias de la Información y Comunicación"
   tic_desc: "Agrupan los elementos y las técnicas usadas en el tratamiento y la transmisión de las informaciones, principalmente de informática, internet y telecomunicaciones."
+proyectos:
+  head: "Estado de Proyectos"
 contact:
   text: Llena los siguientes datos si quieres enviarnos un mensaje. 
   name: Tu Nombre

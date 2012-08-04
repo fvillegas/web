@@ -1,6 +1,7 @@
 require 'bundler'
 Bundler.require
 require 'sinatra/r18n'
+require 'proyectos'
 
 ########## configuration & settings ###########
 set :name, ENV['NAME'] || 'DATA'
@@ -13,6 +14,7 @@ set :public_folder, File.dirname(__FILE__) + '/static'
 set :locales, %w[en es]
 set :default_locale, 'es'
 set :translations, './translations'
+set :proyectos, Proyectos.new
 
 ########## DAZ4126 website ###########
 before do
@@ -40,7 +42,7 @@ get '/que' do
 end
 
 get '/proyectos' do
-  slim :proyectos
+  slim :proyectos, :locals => {:lists =>  settings.proyectos.lists}
 end
 
 get '/contacto' do

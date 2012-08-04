@@ -72,6 +72,8 @@ glosario:
   estandares_abiertos_desc: ""
   tic: "Technology"
   tic_desc: ""
+proyectos:
+  head: "Project's Status'
 contact:
   text: Fill this form to send us a message
   name: Name

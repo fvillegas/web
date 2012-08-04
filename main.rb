@@ -14,7 +14,7 @@ set :public_folder, File.dirname(__FILE__) + '/static'
 set :locales, %w[en es]
 set :default_locale, 'es'
 set :translations, './translations'
-set :proyectos, Proyectos.new
+#set :proyectos, Proyectos.new
 
 ########## DAZ4126 website ###########
 before do
